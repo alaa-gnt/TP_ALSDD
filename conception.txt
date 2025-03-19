@@ -1,0 +1,12 @@
+1 --- > 
+    --- Data Structure ---
+  
+  -- linekd lists 
+   1 ->  question 
+     - A unique ID
+     - A subject/domain (e.g., Science, History)
+     - A difficulty level (Easy, Medium, Hard)
+     - The content of the question
+     - The correct answer
+     - A correct answer rate (to track difficulty)
+     - A pointer to the next question
